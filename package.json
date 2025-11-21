@@ -2,7 +2,7 @@
   "name": "socius-experimentus",
   "version": "1.0.0",
   "description": "Social manipulation experiment PoC",
-  "main": "api/feed.js",
+  "main": "api.js",
   "scripts": {
     "start": "echo 'This is a serverless deployment; start script not needed.'"
   },
