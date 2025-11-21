@@ -1,1 +1,12 @@
-
+{
+  "name": "socius-experimentus",
+  "version": "1.0.0",
+  "description": "Social manipulation experiment PoC",
+  "main": "api/feed.js",
+  "scripts": {
+    "start": "echo 'This is a serverless deployment; start script not needed.'"
+  },
+  "dependencies": {
+    "mongodb": "^4.17.0" 
+  }
+}
